@@ -28,32 +28,32 @@ function A() {
       <div style={{ border: "1px solid", borderRadius: "10px", width: "300px", height: "500px" }}>
         <img style={{ width: "300px", height: "350px", borderRadius: "10px" }} src={duman} alt="" />
         <h1>duman</h1>
-        <p>test2</p>
+        <p>test3</p>
       </div>
       <div style={{ border: "1px solid", borderRadius: "10px", width: "300px", height: "500px" }}>
         <img style={{ width: "300px", height: "350px", borderRadius: "10px" }} src={js_oyrenen_shexs} alt="" />
         <h1>js_oyrenen_shexs</h1>
-        <p>test2</p>
+        <p>test4</p>
       </div>
       <div style={{ border: "1px solid", borderRadius: "10px", width: "300px", height: "500px" }}>
         <img style={{ width: "300px", height: "350px", borderRadius: "10px" }} src={novxvani} alt="" />
         <h1>novxvani</h1>
-        <p>test2</p>
+        <p>test5</p>
       </div>
       <div style={{ border: "1px solid", borderRadius: "10px", width: "300px", height: "500px" }}>
         <img style={{ width: "300px", height: "350px", borderRadius: "10px" }} src={qarli_daglar} alt="" />
         <h1>qarli_daglar</h1>
-        <p>test2</p>
+        <p>test6</p>
       </div>
       <div style={{ border: "1px solid", borderRadius: "10px", width: "300px", height: "500px" }}>
         <img style={{ width: "300px", height: "350px", borderRadius: "10px" }} src={qoca_cinar} alt="" />
         <h1>qoca_cinar</h1>
-        <p>test2</p>
+        <p>test7</p>
       </div>
       <div style={{ border: "1px solid", borderRadius: "10px", width: "300px", height: "500px" }}>
         <img style={{ width: "300px", height: "350px", borderRadius: "10px" }} src={visselka} alt="" />
         <h1>visselka</h1>
-        <p>test2</p>
+        <p>test8</p>
       </div>
     </div>
   </>
