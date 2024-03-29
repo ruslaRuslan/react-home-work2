@@ -12,7 +12,7 @@ import qarli_daglar from './components/Home/qarli_daglar.jpg';
 import qoca_cinar from './components/Home/qoca_cinar.jpg';
 import visselka from './components/Home/visselka.jpg';
 
-function A(ad, imgUrl) {
+function A() {
   return <>
     <div style={{ display: "flex", gap: "10px", textAlign: "center", flexWrap: "wrap", justifyContent: "center" }} >
       <div style={{ border: "1px solid", borderRadius: "10px", width: "300px", height: "500px" }}>
@@ -59,16 +59,9 @@ function A(ad, imgUrl) {
   </>
 }
 
-
-
-
-
-
-
-
 ReactDOM.createRoot(document.getElementById('root')).render(
   <div>
-    {A()}
+    <A />
 
   </div>
 )
