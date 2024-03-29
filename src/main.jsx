@@ -14,7 +14,7 @@ import visselka from './components/Home/visselka.jpg';
 
 function A(ad, imgUrl) {
   return <>
-    <div style={{ display: "flex", gap: "10px", textAlign: "center", flexWrap:"wrap", justifyContent:"center" }} >
+    <div style={{ display: "flex", gap: "10px", textAlign: "center", flexWrap: "wrap", justifyContent: "center" }} >
       <div style={{ border: "1px solid", borderRadius: "10px", width: "300px", height: "500px" }}>
         <img style={{ width: "300px", height: "350px", borderRadius: "10px" }} src={aliImage} alt="" />
         <h1>Ali</h1>
